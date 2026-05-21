@@ -1,5 +1,4 @@
-const stripe = require('stripe')('sk_test_51KkgQ1BHNzRaB25PYHB7o4IWHpezm8MWtL6Nv6V8kG5MM7bHgpuBSTOPfWqEhwAPdaY5pwd92YfBRhowWqk4fxze00Hrpp6Tyy');
-
+const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY)
 let mongoose = require('mongoose'),
 request = require('request'),
   express = require('express'),
