@@ -90,7 +90,7 @@ function Navbar() {
                   </svg>
                 </div>
                 <span className={`text-xl font-bold transition-colors duration-300 ${scrolled ? 'text-slate-800' : 'text-white'}`}>
-                  Nearest<span className="text-sky-400">Doctor</span>
+                  MEDI<span className="text-sky-400">NOVA</span>
                 </span>
               </Link>
 
