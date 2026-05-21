@@ -69,6 +69,11 @@
 - Python 3.8+
 - Git
 
-### Installation
+## 📸 Screenshots
 
-```bash
+| | |
+|---|---|
+| ![Home Page](screenshots/Screenshot%202026-05-22%20021057.png) <br/>**1. Home Page** | ![Login Page](screenshots/Screenshot%202026-05-22%20021135.png) <br/>**2. Login Page** |
+| ![Role Selection](screenshots/Screenshot%202026-05-22%20021314.png) <br/>**3. Role Selection** | ![Blog Page](screenshots/Screenshot%202026-05-22%20021328.png) <br/>**4. Blog Page** |
+
+---
