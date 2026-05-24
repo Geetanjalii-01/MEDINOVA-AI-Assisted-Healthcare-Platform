@@ -17,7 +17,7 @@ const FormComplete = () => {
       <div className="text-center space-y-4">
         <h2 className="text-3xl font-black text-slate-900 tracking-tight">Congratulations!</h2>
         <p className="text-slate-500 max-w-xs mx-auto">
-          You have successfully completed the registration process. Welcome to <span className="text-sky-500 font-bold">NearestDoctor</span>.
+          You have successfully completed the registration process. Welcome to <span className="text-sky-500 font-bold">MEDINOVA </span>.
         </p>
       </div>
 

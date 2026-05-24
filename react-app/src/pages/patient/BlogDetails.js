@@ -142,7 +142,7 @@ function BlogDetails() {
                     <div className="flex items-center gap-3">
                         <div className="w-12 h-12 rounded-xl bg-sky-500 text-white flex items-center justify-center font-black">ND</div>
                         <div>
-                            <p className="text-slate-900 font-bold leading-none mb-1">NearestDoctor Editor</p>
+                            <p className="text-slate-900 font-bold leading-none mb-1">MEDINOVA  Editor</p>
                             <p className="text-[10px] text-slate-400 font-black uppercase tracking-widest">Medical Analysis Team</p>
                         </div>
                     </div>

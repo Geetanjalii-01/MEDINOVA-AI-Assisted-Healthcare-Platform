@@ -48,7 +48,7 @@ function Role() {
             <span>Sign Up</span>
           </p>
           <h1 className="text-white text-4xl md:text-5xl font-bold">
-            Join <span className="text-gradient">NearestDoctor</span>
+            Join <span className="text-gradient">MEDINOVA </span>
           </h1>
         </div>
       </div>

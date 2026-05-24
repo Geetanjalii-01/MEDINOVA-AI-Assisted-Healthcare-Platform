@@ -38,7 +38,7 @@ function Navbar() {
 
   const visitorLinks = [
     { to: '/',        label: 'Home' },
-    { to: '/team',    label: 'About' },
+ 
     { to: '/price',   label: 'Pricing' },
     { to: '/blog',    label: 'Blog' },
     { to: '/contact', label: 'Contact' },

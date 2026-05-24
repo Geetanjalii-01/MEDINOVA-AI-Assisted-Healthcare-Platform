@@ -16,7 +16,7 @@ const LandingPage = () => {
             <div className="landingPage__smallPHeading">
               <p>Reliabe and Accessible to all</p>
             </div>
-            <div className="landingPage__heading">NearestDoctor</div>
+            <div className="landingPage__heading">MEDINOVA </div>
             <div className="landingPage__subHeading">
               <p>X-RAY Results at Home</p>
             </div>

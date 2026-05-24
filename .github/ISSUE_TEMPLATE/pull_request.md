@@ -1,9 +1,9 @@
 ---
 name: 🔀 Pull Request
-about: Submit a code change for NearestDoctor
+about: Submit a code change for MEDINOVA 
 title: '[PR] '
 labels: ''
-assignees: 'ahlem-phantom'
+
 ---
 
 ## 📋 Summary

@@ -7,9 +7,9 @@ import { Link } from 'react-router-dom';
 
 function Contact() {
   const location = {
-    address: 'Esprit El Ghazela Tunis',
-    lat: 36.8763301,
-    lng: 10.1807251,
+    address: 'New Delhi, India',
+    lat: 28.6139,
+lng: 77.2090,
   };
 
   return (

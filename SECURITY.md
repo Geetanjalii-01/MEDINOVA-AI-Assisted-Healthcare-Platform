@@ -20,13 +20,13 @@ Only the latest release is actively maintained. Older versions are no longer sup
 
 ## Reporting a Vulnerability
 
-If you discover a vulnerability in NearestDoctor, please  **follow responsible disclosure practices**.
+If you discover a vulnerability in MEDINOVA , please  **follow responsible disclosure practices**.
 
 ### How to Report
 
 Send a private email to the project maintainer:
 
-📧 **ahlem.laajili@esprit.tn**
+📧 **geet.anjali1022@gmail.com**
 
 Please include:
 - A clear description of the vulnerability
@@ -79,4 +79,4 @@ If you're contributing to this project, please ensure:
 
 ---
 
-*For general questions or non-security bugs, please open a [GitHub Issue](https://github.com/ahlem-phantom/AI-HealthCare-Assistant/issues).*
+*For general questions or non-security bugs, please open a [GitHub Issue](https://github.com/Geetanjalii-01/MEDINOVA-AI-Assisted-Healthcare-Platform/issues).*

@@ -73,7 +73,7 @@ const About = () => {
                             Addressing the Core <span className="text-sky-500">Challenges</span> of Digital Health.
                         </h2>
                         <p className="text-slate-500 text-lg font-medium leading-relaxed">
-                            Despite advances, healthcare remains fragmented. NearestDoctor was designed to solve 
+                            Despite advances, healthcare remains fragmented. MEDINOVA  was designed to solve 
                             three universal pain points for patients and doctors alike.
                         </p>
                     </div>
@@ -108,9 +108,7 @@ const About = () => {
                                 <p className="text-slate-900 font-black">Best Project 2022</p>
                             </div>
                         </div>
-                        <p className="text-slate-500 text-xs font-bold leading-relaxed">
-                            Selected among dozens of engineering projects at Esprit School of Engineering.
-                        </p>
+                        
                     </div>
                 </div>
             </div>
@@ -171,14 +169,13 @@ const About = () => {
       <section className="py-32 bg-white text-center px-4">
         <div className="max-w-4xl mx-auto space-y-10">
             <h2 className="text-4xl md:text-6xl font-black text-slate-900 tracking-tight">
-                Built by <span className="text-gradient">AlphaCoders.</span>
+                Built by <span className="text-gradient">MEDINOVA Team.</span>
             </h2>
             <p className="text-slate-500 text-lg md:text-xl font-medium leading-relaxed">
-                NearestDoctor was developed by 5 engineering students from Esprit School of Engineering, 
-                Tunisia, with the vision that every patient deserves instant, secure medical guidance.
+                MEDINOVA was developed with the vision that every patient deserves instant, secure medical guidance powered by AI and Blockchain.
             </p>
             <div className="flex flex-wrap justify-center gap-6 pt-6">
-                <a href="#github" className="bg-slate-900 text-white px-10 py-4 rounded-2xl font-black uppercase text-xs tracking-widest hover:bg-black transition-all shadow-xl">
+                <a href="https://github.com/Geetanjalii-01/MEDINOVA-AI-Assisted-Healthcare-Platform" className="bg-slate-900 text-white px-10 py-4 rounded-2xl font-black uppercase text-xs tracking-widest hover:bg-black transition-all shadow-xl">
                     View Project Repo
                 </a>
                 <a href="#contact" className="bg-white text-slate-900 border border-slate-200 px-10 py-4 rounded-2xl font-black uppercase text-xs tracking-widest hover:bg-slate-50 transition-all shadow-sm">

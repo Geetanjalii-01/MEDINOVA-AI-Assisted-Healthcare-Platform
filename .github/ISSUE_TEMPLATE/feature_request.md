@@ -1,9 +1,9 @@
 ---
 name: 🚀 Feature Request
-about: Suggest a new feature or enhancement for NearestDoctor
+about: Suggest a new feature or enhancement for MEDINOVA 
 title: '[FEATURE] '
 labels: 'enhancement, needs-review'
-assignees: 'ahlem-phantom'
+'
 ---
 
 ## 🚀 Feature Summary

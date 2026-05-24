@@ -89,8 +89,8 @@ const UserDetails = (props) => {
           <div className="relative">
             <ReactPhoneInput
               specialLabel={""}
-              regions={"africa"}
-              country={"tn"}
+              regions={"asia"}
+              country={"in"}
               name="phone"
               value={user.phone}
               onChange={(value) => props.onChange({ target: { name: 'phone', value } })}

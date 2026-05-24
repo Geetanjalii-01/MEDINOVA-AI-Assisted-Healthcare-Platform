@@ -1,9 +1,9 @@
 ---
 name: 🐛 Bug Report
-about: Report a bug to help us improve NearestDoctor
+about: Report a bug to help us improve MEDINOVA 
 title: '[BUG] '
 labels: 'bug, needs-triage'
-assignees: 'ahlem-phantom'
+
 ---
 
 ## 🐛 Bug Description

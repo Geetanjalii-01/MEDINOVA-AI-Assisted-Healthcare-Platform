@@ -10,7 +10,7 @@ var chatbotTalks= new Schema(
             type: Schema.Types.ObjectId,
             ref: "User"
         },
-        nearestdoctor: String
+        medinova: String
     }
 )
 

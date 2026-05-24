@@ -121,7 +121,7 @@ export const MOCK_DOCTORS = [
     cabinet: 'Family Health Center',
     experience: '10+', 
     phone: '+1 (555) 123-4567',
-    email: 'sarah.johnson@nearestdoctor.com',
+    email: 'sarah.johnson@medinova.com',
     birthdate: '1985-05-12',
     gender: 'Female',
     about: 'Dr. Sarah Johnson is a dedicated General Practitioner with over 10 years of experience in providing comprehensive healthcare to patients of all ages. She specializes in preventitive medicine and chronic disease management.',
@@ -156,7 +156,7 @@ export const MOCK_DOCTORS = [
     cabinet: 'Metropolitan Cardiology',
     experience: '15+', 
     phone: '+1 (555) 987-6543',
-    email: 'michael.chen@nearestdoctor.com',
+    email: 'michael.chen@medinova.com',
     about: 'Dr. Michael Chen is a world-renowned Cardiologist specializing in interventional cardiology and heart failure management.',
     education: [
       { school: 'Johns Hopkins School of Medicine', degree: 'Doctor of Medicine (MD)', year: '2003 - 2007' }
@@ -186,7 +186,7 @@ export const MOCK_DOCTORS = [
     cabinet: 'Little Heroes Clinic',
     experience: '8+', 
     phone: '+1 (555) 555-0103',
-    email: 'emily.white@nearestdoctor.com',
+    email: 'emily.white@medinova.com',
     about: 'Dr. Emily White is a compassionate Pediatrician dedicated to the health and well-being of children from birth through adolescence.',
     specializations: [
       'Neonatal Care',
@@ -208,7 +208,7 @@ export const MOCK_DOCTORS = [
     cabinet: 'Dermacare Professionals',
     experience: '12+', 
     phone: '+1 (555) 555-0104',
-    email: 'robert.brown@nearestdoctor.com',
+    email: 'robert.brown@medinova.com',
     about: 'Dr. Robert Brown specialized in medical and cosmetic dermatology, providing advanced treatments for skin conditions.',
     specializations: [
       'Skin Cancer Screening',
@@ -230,7 +230,7 @@ export const MOCK_DOCTORS = [
     cabinet: 'Eastern Neurology Group',
     experience: '20+', 
     phone: '+1 (555) 555-0105',
-    email: 'jessica.lee@nearestdoctor.com',
+    email: 'jessica.lee@medinova.com',
     about: 'Dr. Jessica Lee is an expert Neurologist with two decades of experience in treating complex neurological disorders.',
     specializations: [
       'Epilepsy Management',

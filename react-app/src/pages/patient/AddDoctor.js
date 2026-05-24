@@ -65,7 +65,7 @@ function AddDoctor() {
           <h1 className="text-3xl font-black text-slate-900 tracking-tight">
             Register <span className="text-sky-500 font-extrabold italic">Medical Expert</span>
           </h1>
-          <p className="text-slate-500 font-medium mt-1">Onboard a new specialist to the NearestDoctor network.</p>
+          <p className="text-slate-500 font-medium mt-1">Onboard a new specialist to the MEDINOVA  network.</p>
         </div>
         <button 
           onClick={() => navigate('/patient/doctors')}
@@ -235,4 +235,4 @@ function AddDoctor() {
   );
 }
 
-export default AddDoctor;
+export default AddDoctor;

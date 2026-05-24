@@ -88,7 +88,7 @@ const UserSummary = (props) => {
             </div>
             
             <div className="p-8 overflow-y-auto prose prose-slate text-sm text-slate-600 leading-relaxed space-y-4">
-              <p className="font-bold text-slate-900">1. Use Of The NearestDoctor Platform</p>
+              <p className="font-bold text-slate-900">1. Use Of The MEDINOVA  Platform</p>
               <p>1.1 The platform is provided to you free of charge for your personal use subject to these Terms and Conditions. By using the platform you agree to be bound by these Terms and Conditions.</p>
               <p>1.2 When completing the contact form or registration on our platform, you must ensure that the details you provide are correct and complete.</p>
               <p>1.3 You must inform us immediately of any changes to the information that you provided when using our contact form by updating your personal details.</p>

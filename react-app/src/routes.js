@@ -15,7 +15,7 @@ import CardVerification from './pages/registration/CardVerification';
 import ResetPassword from './components/auth/ResetPassword';
 import Welcome from './components/auth/Welcome';
 import Shop from './pages/public/Shop';
-import Team from './pages/public/Team';
+
 import Unauthorized from './components/auth/Unauthorized';
 
 // Patient layouts
@@ -91,7 +91,7 @@ export default function Router() {
                 { path: 'contact', element: < Contact / > },
                 { path: 'blog', element: < Blog / > },
                 { path: 'shop', element: < Shop / > },
-                { path: 'team', element: < Team / > },
+
                 { path: 'price', element: < Price / > },
                 { path: 'product-view/:id', element: < ProductDetails / > },
                 { path: 'product-view', element: < ProductDetails / > },

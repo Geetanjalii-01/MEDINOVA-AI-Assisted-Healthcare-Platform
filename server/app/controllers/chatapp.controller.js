@@ -33,7 +33,7 @@ const send_message = async (req, res) => {
     console.log(response)
     if(response.intent.displayName === "Take_appointment_phase1"){
       console.log("Phase1\n")
-      var nearestdoctor =null
+      var medinova =null
       var nearestdistance=999999999999
       if(response.allRequiredParamsPresent){ 
         console.log("Phase1\n")
@@ -47,7 +47,7 @@ const send_message = async (req, res) => {
                   {latitude: result.lat, longitude: result.lng})
                 if(distance < nearestdistance) {
                   resolve(
-                  nearestdoctor= res._id
+                  medinova= res._id
                   )
                   nearestdistance= distance
                 }
@@ -55,11 +55,11 @@ const send_message = async (req, res) => {
             })
           })
           p.then((result) => {
-            doc = nearestdoctor
-            if(nearestdoctor !== null) {
+            doc = medinova
+            if(medinova !== null) {
               UserModel.findById(result).then((res)=>{
                 messageReceived="The nearest doctor to your location is "+res.firstname+" "+res.lastname+", please pick a date by the datepicker."
-                ChatTalks.create({messageSent ,messageReceived , date , user, nearestdoctor  });
+                ChatTalks.create({messageSent ,messageReceived , date , user, medinova  });
                 docname = res.firstname;
                 doclastname = res.lastname;
                 docphone = res.phone;
@@ -73,7 +73,7 @@ const send_message = async (req, res) => {
         });
       }
       else if (response.allRequiredParamsPresent === false){
-        ChatTalks.create({messageSent ,messageReceived , date , user, nearestdoctor  });
+        ChatTalks.create({messageSent ,messageReceived , date , user, medinova  });
       }
     } else if(response.intent.displayName === "Take_appointment_phase2"){
       console.log("Phase2\n")

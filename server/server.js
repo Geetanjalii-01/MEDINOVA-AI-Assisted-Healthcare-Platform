@@ -6,7 +6,6 @@ var cookieParser = require('cookie-parser');
 var patho = require('path');
 const helmet = require('helmet');
 const rateLimit = require('express-rate-limit');
-const csurf = require('csurf');
 
 // view engine setup
 app.set('views', patho.join(__dirname, 'views'));
@@ -18,7 +17,7 @@ var corsOptions = {
 app.use(cors(corsOptions));
 app.use(cookieParser());
 app.use(helmet()); // Added helmet for security headers
-app.use(csurf({ cookie: true })); // Added csurf for CSRF protection
+// Added csurf for CSRF protection
 
 // parse requests of content-type - application/json
 app.use(bodyParser.json());

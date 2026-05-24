@@ -57,7 +57,7 @@ const UserPayment = (props) => {
     "discover",
   ];
 
-  const name = 'NearestDoctor Premium';
+  const name = 'MEDINOVA  Premium';
   const description = `${user.plan === '30' ? 'Basic' : user.plan === '60' ? 'Pro' : 'Premium'} Plan Subscription`;
   const amount = parseInt(user.plan) * 100;
 
